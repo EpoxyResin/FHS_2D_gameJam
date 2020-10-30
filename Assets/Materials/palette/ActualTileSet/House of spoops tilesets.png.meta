@@ -1,0 +1,1271 @@
+fileFormatVersion: 2
+guid: 405a4a7e6f7530e44af2ec4b23680ef4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 320976327526200610
+    second: House of spoops tilesets_0
+  - first:
+      213: -808830497521924361
+    second: House of spoops tilesets_1
+  - first:
+      213: -5606730330117326686
+    second: House of spoops tilesets_2
+  - first:
+      213: -3567726432001971756
+    second: House of spoops tilesets_3
+  - first:
+      213: 8104642900798624550
+    second: House of spoops tilesets_4
+  - first:
+      213: -5563080745599164014
+    second: House of spoops tilesets_5
+  - first:
+      213: -3016705126757610299
+    second: House of spoops tilesets_6
+  - first:
+      213: 7531207880045092046
+    second: House of spoops tilesets_7
+  - first:
+      213: -8283499967274140617
+    second: House of spoops tilesets_8
+  - first:
+      213: 8392566223950747925
+    second: House of spoops tilesets_9
+  - first:
+      213: -6190677002025220200
+    second: House of spoops tilesets_10
+  - first:
+      213: -5028832644388067776
+    second: House of spoops tilesets_11
+  - first:
+      213: 9046473964564513574
+    second: House of spoops tilesets_12
+  - first:
+      213: 4912405686139418032
+    second: House of spoops tilesets_13
+  - first:
+      213: 7377273469225970275
+    second: House of spoops tilesets_14
+  - first:
+      213: -1916732831038077110
+    second: House of spoops tilesets_15
+  - first:
+      213: 7784933759048513857
+    second: House of spoops tilesets_16
+  - first:
+      213: 7045187922708922070
+    second: House of spoops tilesets_17
+  - first:
+      213: -8803198054303128568
+    second: House of spoops tilesets_18
+  - first:
+      213: -4531954455190911668
+    second: House of spoops tilesets_19
+  - first:
+      213: -4125877517338902807
+    second: House of spoops tilesets_20
+  - first:
+      213: 7049644828881333369
+    second: House of spoops tilesets_21
+  - first:
+      213: -7200274433366087311
+    second: House of spoops tilesets_22
+  - first:
+      213: 6292989126354017791
+    second: House of spoops tilesets_23
+  - first:
+      213: 3259656179547848686
+    second: House of spoops tilesets_24
+  - first:
+      213: -411788327641032680
+    second: House of spoops tilesets_25
+  - first:
+      213: 8553965487781012828
+    second: House of spoops tilesets_26
+  - first:
+      213: 5636845062975955482
+    second: House of spoops tilesets_27
+  - first:
+      213: -1198178882169231135
+    second: House of spoops tilesets_28
+  - first:
+      213: -1542461547456825664
+    second: House of spoops tilesets_29
+  - first:
+      213: -2844416961396332511
+    second: House of spoops tilesets_30
+  - first:
+      213: -7138408124211661582
+    second: House of spoops tilesets_31
+  - first:
+      213: -7406809492587047836
+    second: House of spoops tilesets_32
+  - first:
+      213: -1795876762743384455
+    second: House of spoops tilesets_33
+  - first:
+      213: -3665499484141375291
+    second: House of spoops tilesets_34
+  - first:
+      213: 8927181207189743446
+    second: House of spoops tilesets_35
+  - first:
+      213: -7215197826648161469
+    second: House of spoops tilesets_36
+  - first:
+      213: 4940486430146680830
+    second: House of spoops tilesets_37
+  - first:
+      213: 6769011925326718215
+    second: House of spoops tilesets_38
+  - first:
+      213: 7649654194871753539
+    second: House of spoops tilesets_39
+  - first:
+      213: -6844002204633882154
+    second: House of spoops tilesets_40
+  - first:
+      213: 3293545308466750744
+    second: House of spoops tilesets_41
+  - first:
+      213: -4409661325106041937
+    second: House of spoops tilesets_42
+  - first:
+      213: 2914003457111150289
+    second: House of spoops tilesets_43
+  - first:
+      213: -7981217188811878867
+    second: House of spoops tilesets_44
+  - first:
+      213: 3349700241842774587
+    second: House of spoops tilesets_45
+  - first:
+      213: -6437550946411301175
+    second: House of spoops tilesets_46
+  - first:
+      213: 6455317467075731571
+    second: House of spoops tilesets_47
+  - first:
+      213: 6170555343163975119
+    second: House of spoops tilesets_48
+  - first:
+      213: -1100476620842349030
+    second: House of spoops tilesets_49
+  - first:
+      213: 8741859603878489398
+    second: House of spoops tilesets_50
+  - first:
+      213: 5180674328159025828
+    second: House of spoops tilesets_51
+  - first:
+      213: -648252812307021583
+    second: House of spoops tilesets_52
+  - first:
+      213: -5703200988681167772
+    second: House of spoops tilesets_53
+  - first:
+      213: -1613422671329710232
+    second: House of spoops tilesets_54
+  - first:
+      213: 6658476017901126552
+    second: House of spoops tilesets_55
+  - first:
+      213: 8116034890059054662
+    second: House of spoops tilesets_56
+  - first:
+      213: -6170293284324516139
+    second: House of spoops tilesets_57
+  - first:
+      213: 1839261188093317482
+    second: House of spoops tilesets_58
+  - first:
+      213: -968157848470100772
+    second: House of spoops tilesets_59
+  - first:
+      213: 8108571420197322751
+    second: House of spoops tilesets_60
+  - first:
+      213: 4607740814417500378
+    second: House of spoops tilesets_61
+  - first:
+      213: -6292987958323955997
+    second: House of spoops tilesets_62
+  - first:
+      213: -4751958684182642210
+    second: House of spoops tilesets_8
+  - first:
+      213: -8627089741899559842
+    second: House of spoops tilesets_9
+  - first:
+      213: 7786092933799123046
+    second: House of spoops tilesets_10
+  - first:
+      213: 4409967035541764266
+    second: House of spoops tilesets_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: House of spoops tilesets_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 160
+        width: 41
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f604b7a2f476c4f0800000000000000
+      internalID: -808830497521924361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8b2f17874e032b0800000000000000
+      internalID: -5606730330117326686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d920c476b3ec7ec0800000000000000
+      internalID: -3567726432001971756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 183
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6235e7d27c9797070800000000000000
+      internalID: 8104642900798624550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 160
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2912fbd4987fbc2b0800000000000000
+      internalID: -5563080745599164014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 170
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc438f9ba28226d0800000000000000
+      internalID: -3016705126757610299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccd5b33aa9348860800000000000000
+      internalID: 7531207880045092046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 128
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62300b7f3288b8d70800000000000000
+      internalID: 9046473964564513574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5f2fac1fe5c2440800000000000000
+      internalID: 4912405686139418032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aa0204227516660800000000000000
+      internalID: 7377273469225970275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4785ac35a56665e0800000000000000
+      internalID: -1916732831038077110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 128
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee7e300240fdb6c0800000000000000
+      internalID: -4125877517338902807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c242a0f9e55d160800000000000000
+      internalID: 7049644828881333369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17923e13d8c731c90800000000000000
+      internalID: -7200274433366087311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 96
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef3bdf5600ac3d20800000000000000
+      internalID: 3259656179547848686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818dd40a2b8094af0800000000000000
+      internalID: -411788327641032680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5563205a4ac5b670800000000000000
+      internalID: 8553965487781012828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12a89038b81a3e40800000000000000
+      internalID: 5636845062975955482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8ade6a7a63f5fe0800000000000000
+      internalID: -1198178882169231135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4f996c1a74fec90800000000000000
+      internalID: -7138408124211661582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 96
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4649b5b620ab53990800000000000000
+      internalID: -7406809492587047836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9765d486993c317e0800000000000000
+      internalID: -1795876762743384455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0306bc3a7812dc0800000000000000
+      internalID: -3665499484141375291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 67
+        width: 96
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1aec681483501a0800000000000000
+      internalID: -6844002204633882154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 66
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dece5784be907820800000000000000
+      internalID: 2914003457111150289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 84
+        width: 80
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e40a9c0450d3190800000000000000
+      internalID: -7981217188811878867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc56d20446732a550800000000000000
+      internalID: 6170555343163975119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 32
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ec11b08525ab0f0800000000000000
+      internalID: -1100476620842349030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 32
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da38d4ef2515970800000000000000
+      internalID: 8741859603878489398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 32
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa77e26ad375e740800000000000000
+      internalID: 5180674328159025828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 32
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0cac57081f007f0800000000000000
+      internalID: -648252812307021583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c900beae82ad0b0800000000000000
+      internalID: -5703200988681167772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fa4d2f0a8fb99e0800000000000000
+      internalID: -1613422671329710232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 49
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893447009a8a76c50800000000000000
+      internalID: 6658476017901126552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 32
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dedbd313f6be5aa0800000000000000
+      internalID: -6170293284324516139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_58
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 32
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6117754e4e568910800000000000000
+      internalID: 1839261188093317482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 32
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4ee6bf0996092f0800000000000000
+      internalID: -968157848470100772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_61
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 11
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad89c6c9bdbf1ff30800000000000000
+      internalID: 4607740814417500378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 172
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149780ce104a90c60800000000000000
+      internalID: 7784933759048513857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.41578978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deffe4b61985c160800000000000000
+      internalID: 7045187922708922070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 88
+        width: 81
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225328fe446547400800000000000000
+      internalID: 320976327526200610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8042addc202c4d580800000000000000
+      internalID: -8803198054303128568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 84
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed106f1f0c6ad0eb0800000000000000
+      internalID: -4751958684182642210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 80
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c09a8869b664880800000000000000
+      internalID: -8627089741899559842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66896435542cd0c60800000000000000
+      internalID: 7786092933799123046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House of spoops tilesets_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa836a067a9533d30800000000000000
+      internalID: 4409967035541764266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
