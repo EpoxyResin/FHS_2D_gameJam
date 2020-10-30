@@ -28,6 +28,7 @@ public class PlayerMovement : MonoBehaviour
     {
         Debug.Log("Interacted");
     }
+
     // Update is called once per frame
     void FixedUpdate()
     {
