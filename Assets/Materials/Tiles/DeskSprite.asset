@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Spooky_cutie_tile_set (3)_46
+  m_Name: DeskSprite
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 7858852360208985373, guid: a41aa753ba3d9dd4baf999ac8ffa086a,
     type: 3}
