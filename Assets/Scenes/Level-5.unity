@@ -262,7 +262,7 @@ Grid:
   m_GameObject: {fileID: 338291552}
   m_Enabled: 1
   m_CellSize: {x: 1, y: 1, z: 0}
-  m_CellGap: {x: 0, y: 0, z: 0}
+  m_CellGap: {x: -0.0001, y: 0, z: 0}
   m_CellLayout: 0
   m_CellSwizzle: 0
 --- !u!4 &338291554
@@ -1753,7 +1753,7 @@ MonoBehaviour:
   m_PointLightInnerAngle: 334.58
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
-  m_PointLightOuterRadius: 1.8014556
+  m_PointLightOuterRadius: 1.7656281
   m_PointLightDistance: 3
   m_PointLightQuality: 1
   m_ShapeLightParametricSides: 5
@@ -1773,7 +1773,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 858087397}
-  m_LocalRotation: {x: 0, y: 0, z: 0.9999649, w: 0.008378534}
+  m_LocalRotation: {x: 0, y: 0, z: 0.012036574, w: 0.9999276}
   m_LocalPosition: {x: 9.49, y: -2.31, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -2477,7 +2477,7 @@ MonoBehaviour:
   m_PointLightInnerAngle: 334.58
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
-  m_PointLightOuterRadius: 1.6431248
+  m_PointLightOuterRadius: 1.6735578
   m_PointLightDistance: 3
   m_PointLightQuality: 1
   m_ShapeLightParametricSides: 5
@@ -2497,7 +2497,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1692419003}
-  m_LocalRotation: {x: 0, y: 0, z: 0.9999995, w: 0.001006494}
+  m_LocalRotation: {x: 0, y: 0, z: 0.014308139, w: 0.99989766}
   m_LocalPosition: {x: 6.51, y: -2.34, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
