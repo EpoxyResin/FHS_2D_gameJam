@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
 
     private Rigidbody2D _rigidBody2D;
     [SerializeField] private float _speed = 0f;
-    private Vector2 _move;
+    public Vector2 _move;
 
     // Start is called before the first frame update
     void Start()
@@ -28,7 +28,6 @@ public class PlayerMovement : MonoBehaviour
     {
         Debug.Log("Interacted");
     }
-
     // Update is called once per frame
     void FixedUpdate()
     {
