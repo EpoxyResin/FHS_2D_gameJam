@@ -9,6 +9,11 @@ public class SavePlayerPosition : MonoBehaviour
     private bool isColliding;
     private DoorVariables _dorVar;
 
+
+    private void Start()
+    {
+        PlayerPrefs.SetString("PlayerPos", "Right");
+    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Door"))

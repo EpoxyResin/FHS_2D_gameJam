@@ -83,5 +83,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aba075cec1aded54bbda1be4b743ef62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _doorPos: Left
-  _sceneName: Level-1
+  _doorPos: Right
+  _sceneName: Level-2

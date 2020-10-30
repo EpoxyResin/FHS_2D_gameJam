@@ -989,8 +989,8 @@ Tilemap:
   - first: {x: 4, y: 4, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 65
-      m_TileSpriteIndex: 65
+      m_TileIndex: 66
+      m_TileSpriteIndex: 66
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1134,7 +1134,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 57
-      m_TileSpriteIndex: 57
+      m_TileSpriteIndex: 65
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1541,9 +1541,9 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: ed28b4909961a2244b5076fd1c768346, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: c91c20aaa9574ad409973f918acf6d27, type: 2}
-  - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: ad19b2dbf81cc4248af2a579eb9f9e8d, type: 2}
-  - m_RefCount: 1
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 52facea517230824ea7eb3d54f539257, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 15a2321a6689b184385daf8a3fccf930, type: 2}
@@ -1885,9 +1885,8 @@ Tilemap:
   - m_RefCount: 1
     m_Data: {fileID: 2411858324789406108, guid: a41aa753ba3d9dd4baf999ac8ffa086a,
       type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: -1487366836233380399, guid: a41aa753ba3d9dd4baf999ac8ffa086a,
-      type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: -3021718194836826248, guid: a41aa753ba3d9dd4baf999ac8ffa086a,
       type: 3}
@@ -1910,9 +1909,9 @@ Tilemap:
     m_Data: {fileID: -2510142591200115918, guid: a41aa753ba3d9dd4baf999ac8ffa086a,
       type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: -1280384953255909649, guid: a41aa753ba3d9dd4baf999ac8ffa086a,
+    m_Data: {fileID: -1487366836233380399, guid: a41aa753ba3d9dd4baf999ac8ffa086a,
       type: 3}
-  - m_RefCount: 1
+  - m_RefCount: 2
     m_Data: {fileID: -6681328443200103500, guid: a41aa753ba3d9dd4baf999ac8ffa086a,
       type: 3}
   - m_RefCount: 1
