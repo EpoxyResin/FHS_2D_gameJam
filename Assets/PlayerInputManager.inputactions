@@ -30,7 +30,7 @@
                     "interactions": ""
                 },
                 {
-                    "name": "W",
+                    "name": "Interact",
                     "type": "Button",
                     "id": "c3bb95d8-02f6-4ddd-913a-a83329998f27",
                     "expectedControlType": "Button",
@@ -262,11 +262,11 @@
                 {
                     "name": "",
                     "id": "7c013920-59cd-489e-a399-a211b1b8e204",
-                    "path": "<Keyboard>/w",
+                    "path": "<Keyboard>/e",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "W",
+                    "action": "Interact",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

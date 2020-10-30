@@ -8,4 +8,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/StartCorridor.unity
     guid: daddc92c274a1e748b17f301db15cd9f
+  - enabled: 1
+    path: Assets/Scenes/Level-1.unity
+    guid: e1ffbc60c6a9a5b4ab1f88f6271855fc
+  - enabled: 1
+    path: Assets/Scenes/Level-2.unity
+    guid: 8513f4bd88c10a24e9de3f4f144a94b0
+  - enabled: 1
+    path: Assets/Scenes/Level-3.unity
+    guid: 4a316ecc02037d3439cbd67a867db66f
+  - enabled: 1
+    path: Assets/Scenes/Level-4.unity
+    guid: bc30e0951da712a4a8a33b0bdc4722e0
+  - enabled: 1
+    path: Assets/Scenes/Level-5.unity
+    guid: 256a28325783eec49a5da44bc62fe69e
   m_configObjects: {}
